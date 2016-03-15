@@ -1,6 +1,6 @@
 name: The Barbers
 favicon: null
-layout_spectrum: 0.012276618042960763
+layout_spectrum: 1
 typography_spectrum: 0.239806798286736
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.45079484628513455
-  lightness: 0.8169744373299181
-  saturation: 0.10799629660323262
-  rhythmicContrast: 0.22045920439995825
+  brandStrength: 0.5
+  lightness: 0.625
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
